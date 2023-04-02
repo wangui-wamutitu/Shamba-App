@@ -24,7 +24,7 @@ This project was built using the following dependencies:
 
 The project structure is fairly simple:
 
-* App.js: the main entry point for the app.
+* App.js: the main entry point for the app. as all screen Nav component
 * index.js: the file that registers the app with the React Native framework.
 * components/admin: Has screens for the admin side of the application.
 
