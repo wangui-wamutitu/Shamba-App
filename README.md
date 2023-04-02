@@ -27,6 +27,7 @@ The project structure is fairly simple:
 * App.js: the main entry point for the app. as all screen Nav component
 * index.js: the file that registers the app with the React Native framework.
 * components/admin: Has screens for the admin side of the application.
+* navigation: Has navigation setup with React Navigation library
 
 # Contributing
 
